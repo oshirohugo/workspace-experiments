@@ -1,0 +1,10 @@
+{
+  "name": "@hoshiro/cli",
+  "version": "1.0.0",
+  "dependencies": {
+    "@hoshiro/server": "1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}

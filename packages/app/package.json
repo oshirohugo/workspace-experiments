@@ -1,0 +1,16 @@
+{
+  "name": "@hoshiro/app",
+  "version": "1.0.0",
+  "author": "Hugo Oshiro",
+  "license": "MIT",
+  "main": "./dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@hoshiro/components": "1.0.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
